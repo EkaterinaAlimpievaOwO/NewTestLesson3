@@ -83,4 +83,12 @@
 
 ## Картинки
 Markdown так же позволяет работать с изображениями.
+Чтобы вставить изображение в текст, необходимо либо указать ссылку к изображению(1), либо путь к нему(2). Так же можно сделать так, чтобы при нажатие на изображение открывалась ссылка, привязанная к нему(3).  
+1.  
+![some_text](https://static.vecteezy.com/system/resources/previews/006/947/132/original/computer-reaction-faces-internet-funny-meme-man-staring-at-computer-screen-common-memes-used-across-internet-in-chats-of-gifs-free-vector.jpg)  
+2.  
+![text](image2.jpg "Примечание")
+3.  
+[![Click_me](https://texterra.ru/upload/img/2014-07-14-tex-02.jpg)](https://www.google.com/search?q=git+meme&rlz=1C1MSIM_enRU869RU869&sxsrf=ALiCzsa_phF4PMGypUxJhdYnOSEzPF34kA:1669296790359&source=lnms&tbm=isch&sa=X&ved=2ahUKEwis3NqR98b7AhWTyosKHTCVDaIQ_AUoAXoECAIQAw&biw=1920&bih=937#imgrc=wzB3SnbFo7ZgCM)
+
 ## Использование HTML внутри MarkDown
