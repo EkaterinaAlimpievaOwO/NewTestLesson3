@@ -92,3 +92,4 @@ Markdown так же позволяет работать с изображени
 [![Click_me](https://texterra.ru/upload/img/2014-07-14-tex-02.jpg)](https://www.google.com/search?q=git+meme&rlz=1C1MSIM_enRU869RU869&sxsrf=ALiCzsa_phF4PMGypUxJhdYnOSEzPF34kA:1669296790359&source=lnms&tbm=isch&sa=X&ved=2ahUKEwis3NqR98b7AhWTyosKHTCVDaIQ_AUoAXoECAIQAw&biw=1920&bih=937#imgrc=wzB3SnbFo7ZgCM)
 
 ## Использование HTML внутри MarkDown
+Допустимо использование HTML вместе с MarkDown.
